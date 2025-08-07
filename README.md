@@ -1,10 +1,10 @@
 # save airdrop in hacked wallet example
 
-**The code may not work, it is recommended to contact https://twitter.com/ourRescuETH.**
+**The code may not work, it is recommended to contact https://x.com/gushanjishui
 
 use [flashbot](https://github.com/flashbots/searcher-sponsored-tx), only support ethereum mainnet and goerli
 
-support **ENS** **PSP** **SOS** **GAS** **WTF** **RSS3** **FORT** **BLUR**
+support **PROVE**
 
 support **ERC20** **ERC721** **ERC1155**
 
@@ -14,7 +14,7 @@ support **ERC20** **ERC721** **ERC1155**
 
 `yarn install` or `npm install` to install packages
 
-modify code in src/index.ts (if claim SOS/GAS/WTF, also need add parameters in file at src/engine)
+modify code in src/index.ts (need to copy the meerkle and index data)
 
 use `yarn start` run code
 
